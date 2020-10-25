@@ -23,6 +23,11 @@ section>div {
     padding: 7%;
 }
 
+section>div:hover {
+    height: 85vh;
+    transition: 0.5s;
+}
+
 
 div>div {
     height: 80px;
